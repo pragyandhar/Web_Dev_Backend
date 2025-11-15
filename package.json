@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "nodemon": "^3.1.11",
+    "path": "^0.12.7"
+  },
+  "name": "web_dev_backend",
+  "description": "This is a repository where in I have put everything which I have learned in the form of branches. The readme in each branch is created by AI The source codes is written by me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
